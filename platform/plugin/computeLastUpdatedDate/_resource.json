@@ -1,0 +1,8 @@
+{
+  "$id": "computeLastUpdatedDate",
+  "$schema": "https://schema.yext.com/config/platform/plugin/v1",
+  "globals": {
+    "API_KEY": "",
+    "LAST_UPDATED_DATE_FIELD_ID": "c_lastUpdatedDate"
+  }
+}

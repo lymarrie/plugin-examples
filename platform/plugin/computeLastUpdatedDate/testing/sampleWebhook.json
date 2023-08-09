@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "eventType": "ENTITY_UPDATED",
+    "uuid": "6eae0c3e-5936-433a-b50c-060fec26e080",
+    "timestamp": 1666383433074,
+    "accountId": "2690459",
+    "actor": "USER",
+    "appSpecificAccountId": "364afaaa6351fff5a0424f24d37c20dfeb9f2ec5"
+  },
+  "entityId": "airpod-generation-1",
+  "primaryProfile": {
+    "richTextDescription": "Really awesome airpods.",
+    "slug": "/airpod-first-generation",
+    "name": "Airpod First Generation",
+    "c_listOfPrices": [
+      {
+        "value": "10",
+        "currencyCode": "BBD"
+      },
+      {
+        "value": "15",
+        "currencyCode": "EUR"
+      }
+    ],
+    "meta": {
+      "accountId": "2690459",
+      "uid": "J7p49b",
+      "id": "airpod-generation-1",
+      "timestamp": "2022-10-21T20:17:13",
+      "folderId": "0",
+      "language": "en",
+      "countryCode": "US",
+      "entityType": "product"
+    }
+  },
+  "languageProfiles": [
+    {
+      "name": "Airpod First Generation",
+      "c_listOfPrices": [
+        {
+          "value": "10",
+          "currencyCode": "BBD"
+        },
+        {
+          "value": "15",
+          "currencyCode": "EUR"
+        }
+      ],
+      "meta": {
+        "accountId": "2690459",
+        "uid": "J7p49b",
+        "id": "airpod-generation-1",
+        "timestamp": "2022-10-19T22:08:37",
+        "folderId": "0",
+        "language": "af_ZA",
+        "countryCode": "US",
+        "entityType": "product"
+      }
+    }
+  ],
+  "changedFields": {
+    "language": "en",
+    "fieldNames": [
+      "richTextDescription"
+    ]
+  }
+}
